@@ -100,11 +100,11 @@ body {
 
 /* Hero */
 .hero {
-    min-height: 75vh;
+    min-height: 85vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 8rem 2rem 2rem;
+    padding: 8rem 2rem 4rem;
     background: linear-gradient(135deg, var(--off-white) 0%, var(--white) 100%);
     position: relative;
     overflow: hidden;
@@ -216,7 +216,6 @@ section {
 /* Services */
 .services {
     background: var(--white);
-    padding-top: 4rem;
 }
 
 .service-grid {
